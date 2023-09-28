@@ -1,0 +1,15 @@
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.csproj.AssemblyReference.cache
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfoInputs.cache
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfo.cs
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.csproj.CoreCompileInputs.cache
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/bin/Debug/net6.0/Задача_2
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/bin/Debug/net6.0/Задача_2.deps.json
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/bin/Debug/net6.0/Задача_2.runtimeconfig.json
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/bin/Debug/net6.0/Задача_2.dll
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/bin/Debug/net6.0/Задача_2.pdb
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.dll
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/refint/Задача_2.dll
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.pdb
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/Задача_2.genruntimeconfig.cache
+/Users/elenaperminova/Desktop/ДЗ C#/Задача_2/obj/Debug/net6.0/ref/Задача_2.dll
